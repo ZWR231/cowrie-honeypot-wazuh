@@ -6,7 +6,7 @@ Cloud-based SSH honeypot integrated with Wazuh SIEM for real-world threat monito
 This project demonstrates the deployment of a cloud-based SSH honeypot using Cowrie, integrated with Wazuh SIEM to monitor and analyze real-world attacker activity. The environment captures live attack traffic, including brute force attempts, command execution, and potential malware activity.
 
 ## Architecture
-Internet → Cloudflare → Linode VPS → Docker (Cowrie) → Wazuh SIEM → Alerts & Dashboard
+![Architecture](architecture.png)
 
 ## Technologies Used
 - Wazuh SIEM
