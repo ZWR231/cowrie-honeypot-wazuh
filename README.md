@@ -53,3 +53,20 @@ Conclusion
 
 This project provided hands-on experience monitoring and analyzing real-world cyber threats using a SIEM platform, demonstrating practical skills relevant to SOC analyst roles.
 
+
+## Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Discover View
+![Discover](discover.png)
+
+### Cowrie Logs
+![Logs](logs.png)
+
+### Detection Rules
+![Rules](rules.png)
+
+### Alerts
+![Alerts](alerts.png)
