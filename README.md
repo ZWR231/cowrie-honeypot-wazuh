@@ -63,7 +63,7 @@ This project provided hands-on experience monitoring and analyzing real-world cy
 ![Discover](discover.png)
 
 ### Cowrie Logs
-![Logs](logs.png)
+![Logs](cowrie-logs.png)
 
 ### Detection Rules
 ![Rules](rules.png)
