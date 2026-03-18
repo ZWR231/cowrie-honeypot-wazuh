@@ -54,8 +54,9 @@ Skills Demonstrated
 
 Conclusion
 
-This project provided hands-on experience monitoring and analyzing real-world
-cyber threats using a SIEM platform, demonstrating practical skills relevant to SOC analyst roles.
+This project demonstrates hands-on experience building and operating a SIEM-integrated honeypot environment 
+to monitor real-world attacker activity. It highlights practical skills in detection engineering, 
+log analysis, and threat monitoring aligned with SOC analyst responsibilities.
 
 
 ## Screenshots
@@ -74,3 +75,21 @@ cyber threats using a SIEM platform, demonstrating practical skills relevant to 
 
 ### Alerts
 ![Alerts](alerts.png)
+
+
+## Sample Alert
+
+Example Wazuh alert triggered by malicious activity:
+
+- Rule ID: 100204  
+- Severity: 15  
+- Description: Malware download attempt  
+- Command: wget / curl  
+
+
+## Future Improvements
+
+- Integrate GeoIP to map attacker locations
+- Implement automated IP blocking using Wazuh active response
+- Send alerts to external platforms (Slack/Discord)
+- Expand detection rules for advanced attacker behavior
