@@ -51,7 +51,8 @@ Skills Demonstrated
 
 Conclusion
 
-This project provided hands-on experience monitoring and analyzing real-world cyber threats using a SIEM platform, demonstrating practical skills relevant to SOC analyst roles.
+This project provided hands-on experience monitoring and analyzing real-world
+cyber threats using a SIEM platform, demonstrating practical skills relevant to SOC analyst roles.
 
 
 ## Screenshots
